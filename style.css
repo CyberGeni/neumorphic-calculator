@@ -3,7 +3,7 @@ body {
 }
 .container {
     width: 250px;
-    height: 400px;
+    height: 200px;
     margin: 80px auto;
     background: rgb(214, 214, 214);
     box-shadow: 5px 5px 10px #b6a9a9,
@@ -29,8 +29,8 @@ body {
 }
 .button {
     margin: 15px 0 0  5px;
-    width: 42px;
-    height: 42px;
+    width: 20px;
+    height: 32px;
     border: none;
     outline: none;
     font-size: 18px;
