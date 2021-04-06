@@ -12,7 +12,7 @@ body {
 }
 .calculator-box {
     width: 150px;
-    margin: 10px auto;
+    margin: 5px auto;
 }
 #display {
     border: none;
